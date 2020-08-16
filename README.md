@@ -1,4 +1,4 @@
-<img src="mr-robot.jpg" >
+![a building](https://github.com/bomodot/bomodot/blob/master/mr-robot.jpg?raw=true)
 
 ### Hi there 👋
 
