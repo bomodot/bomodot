@@ -1,6 +1,12 @@
 ![a building](https://github.com/bomodot/bomodot/blob/master/mr-robot.jpg?raw=true)
 
-### Hi there 👋
+# Hello, Friend.
+
+I'm Iheb, a computer science student. Programming and building cool things is one of my multiple hobbies.
+
+I'm passionate About learning advanced algorithms and data structures. I started using and contributing to open source software which has been an amazing experience
+
+I'm very intersted in learning computer vision, reinforecement learning, and robotics software engineering in general.
 
 <br/>
 	
