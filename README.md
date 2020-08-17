@@ -11,7 +11,7 @@ I'm very intersted in learning computer vision, reinforecement learning, and rob
 </a>
 
 <a href="mailto:iheb.haboubi56@gmail.com">
-  <img alt="Iheb's Email" src="https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img alt="Iheb's Email" src="https://img.shields.io/badge/-iheb.haboubi56@gmail.com-c14438?&style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
                                                                                                                                                                                   
 <a href="https://www.reddit.com/user/iheb-haboubi">
