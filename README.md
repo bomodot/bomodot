@@ -9,11 +9,11 @@ I'm very intersted in learning computer vision, reinforecement learning, and rob
 <a href="https://www.linkedin.com/in/iheb-haboubi/">
   <img alt="Iheb's LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
-<a href="mailto:iheb.haboubi56@gmail.com">
-  <img alt="Iheb's Email" src="https://img.shields.io/badge/-iheb.haboubi56@gmail.com-c14438?&style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
                                                                                                                                                                                   
 <a href="https://www.reddit.com/user/iheb-haboubi">
   <img alt="Iheb's Reddit" src="https://img.shields.io/badge/Reddit-%23FF4500.svg?&style=for-the-badge&logo=reddit&logoColor=white"/>
+</a>
+
+<a href="mailto:iheb.haboubi56@gmail.com">
+  <img alt="Iheb's Email" src="https://img.shields.io/badge/-iheb.haboubi56@gmail.com-c14438?&style=flat-square&logo=gmail&logoColor=white"/>
 </a>
